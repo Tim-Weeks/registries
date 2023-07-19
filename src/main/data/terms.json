@@ -1,4 +1,4 @@
-[
+ [
   {
     "definition": "The digital audio signal format used to pass DCP audio from the media block to the audio processor in a digital cinema system.  The physical connection can be either two Ethernet patch cords, each of which can carry eight channels, or a cable terminated in DB25 connectors, which can carry up to sixteen.  Adapters can be used to convert between the two connector types.",
     "sources": [
@@ -85,7 +85,7 @@
     "term": "Application Programming Interface"
   },
   {
-    "definition": "The shape of a projected image, usually stated in the format width:height.  The cinema industry expresses aspect ratios as proportions of 1, e.g. 1.85:1 or 2.39:1.  In broadcast and consumer media, proportions of integers are typically used, e.g. 4:3 or 16:9.",
+    "definition": "The shape of a projected image, usually stated in the format width:height.  The cinema industry expresses aspect ratios as proportions of 1, e.g. 1.85:1 ("Flat") or 2.39:1 ("Scope").  In broadcast and consumer media, proportions of integers are typically used, e.g. 4:3 or 16:9.",
     "relatedTerms": [
       "Container",
       "Flat",
@@ -620,6 +620,7 @@
     "term": "Managed Switch"
   },
   {
+    "definition": "Black drapes that hang to the sides or above a projection surface. Usually motorised, the drapes move to expose or hide regions of the screen surface that are unused for the aspect ratio which is being presented at the time.",
     "term": "Masking"
   },
   {
@@ -634,6 +635,13 @@
   {
     "abbreviations": [
       "NTP"
+    ],
+    "definition": "A means for keeping computer equipment synchronised to UTC-time within a few milliseconds.",
+    "relatedTerms": [
+      "Secure Clock"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Network_Time_Protocol"
     ],
     "term": "Network Time Protocol"
   },
