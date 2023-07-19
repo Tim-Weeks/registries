@@ -2265,7 +2265,12 @@
   },
   {
     "code": "VE",
-    "description": "Village Entertainment"
+     "contact": {
+      "address": "9/650 Chapel St, South Yarra Vic 3141 Australia",
+      "email": "exhibition_technical@village-cinemas.com",
+    },
+    "description": "Village Entertainment",
+     "url": "https://villagecinemas.com.au"
   },
   {
     "code": "VER",
